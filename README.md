@@ -17,9 +17,9 @@ To run this project locally, follow these steps:
 Clone the repository to your local machine:
 
 ```
-git clone https://github.com/Chompou22/Todo_List_v2.git
+git clone https://github.com/Chompou22/Todo_React.git
 
-cd Todo_List_v2
+cd Todo_React
 
 npm install
 ```
